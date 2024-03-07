@@ -33,4 +33,27 @@
 
 
 
+.block-about {
+    padding: 88px 0px 82px 610px;
+    background-image: url("/img/content_laptop-parker-byrd_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.block-about .block-about__title {
+    text-transform: uppercase;
+    color: #fff;
+    border-bottom: solid 1px #fff;
+    font-size: 30px;
+    text-align: center;
+    box-sizing: border-box;
+    font-weight: 600;
+    max-width: 680px;
+    display: inline-block;
+    padding-bottom: 40px;
+    line-height: 29px;
+    letter-spacing: 6px;
+}
+
 
