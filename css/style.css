@@ -31,10 +31,12 @@
     padding: 50px 9px;
 }
 
-
+.fon-color {
+    padding: 95px 0px 82px 600px;
+    background: rgba(0, 0, 0, 0.5);
+}
 
 .block-about {
-    padding: 88px 0px 82px 610px;
     background-image: url("/img/content_laptop-parker-byrd_1.jpg");
     background-repeat: no-repeat;
     background-position: center;
@@ -51,9 +53,89 @@
     font-weight: 600;
     max-width: 680px;
     display: inline-block;
-    padding-bottom: 40px;
+    padding-bottom: 45px;
     line-height: 29px;
     letter-spacing: 6px;
 }
 
+.content {
+    min-width: 320px;
+    margin-top: 40px;
+    padding: 0 361px;
+    text-align: justify;
+}
 
+.content__title {
+    padding: 17px 0 34px 0;
+    margin: 0 auto;
+}
+
+.content__title h2 {
+    font-size: 23px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: inherit;
+    margin: inherit;
+    box-shadow: 0 36px 0 -35px #f9b233;
+    letter-spacing: -0.1px;
+    text-align: center;
+    width: 520px;
+}
+
+.content .img-book {
+    margin-top: 20px;
+    margin-right: 30px;
+    margin-bottom: 40px;
+    height: 315px;
+    width: 497px;
+}
+.content .tst {
+    display: inline-block;
+    padding: 10px 8px;
+    border: 1px solid #ccc;
+    color: #888;
+    margin-bottom: 33px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.content p {
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 20px;
+    font-weight: normal;
+    margin-bottom: 20px;
+}
+
+.content a {
+    color: #f9b233;
+}
+
+.content ul {
+    color: #f9b233;
+    margin: 20px 0;
+    font-size: 15px;
+    letter-spacing: 3px;
+    text-align: justify;
+    text-transform: uppercase;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 198px;
+}
+
+.content li::before {
+    content: '✓';
+    color: white;
+    background: #f9b233;
+    display: inline-block;
+    text-align: center;
+    line-height: normal;
+    height: auto;
+    width: auto;
+    margin: 0 25px 0 0;
+    padding: 0px;
+    min-width: 19px;
+    min-height: 15px;
+    padding-left: 1px;
+    border-radius: 50%;
+}
