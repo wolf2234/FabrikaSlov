@@ -1,3 +1,94 @@
+@font-face {
+    font-family: 'Stem';
+    src: url('/fonts/Stem/Stem-Light.eot');
+    src: local('Stem Light'), local('Stem-Light'),
+        url('/fonts/Stem/Stem-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Stem/Stem-Light.woff2') format('woff2'),
+        url('/fonts/Stem/Stem-Light.woff') format('woff'),
+        url('/fonts/Stem/Stem-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('/fonts/Stem/Stem-Medium.eot');
+    src: local('Stem Medium'), local('Stem-Medium'),
+        url('/fonts/Stem/Stem-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Stem/Stem-Medium.woff2') format('woff2'),
+        url('/fonts/Stem/Stem-Medium.woff') format('woff'),
+        url('/fonts/Stem/Stem-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('/fonts/Stem/Stem-Bold.eot');
+    src: local('Stem Bold'), local('Stem-Bold'),
+        url('/fonts/Stem/Stem-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Stem/Stem-Bold.woff2') format('woff2'),
+        url('/fonts/Stem/Stem-Bold.woff') format('woff'),
+        url('/fonts/Stem/Stem-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('/fonts/Stem/Stem-SemiLight.eot');
+    src: local('Stem Semi Light'), local('Stem-SemiLight'),
+        url('/fonts/Stem/Stem-SemiLight.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Stem/Stem-SemiLight.woff2') format('woff2'),
+        url('/fonts/Stem/Stem-SemiLight.woff') format('woff'),
+        url('/fonts/Stem/Stem-SemiLight.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('/fonts/Stem/Stem-ExtraLight.eot');
+    src: local('Stem Extra Light'), local('Stem-ExtraLight'),
+        url('/fonts/Stem/Stem-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Stem/Stem-ExtraLight.woff2') format('woff2'),
+        url('/fonts/Stem/Stem-ExtraLight.woff') format('woff'),
+        url('/fonts/Stem/Stem-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('/fonts/Stem/Stem-Thin.eot');
+    src: local('Stem Thin'), local('Stem-Thin'),
+        url('/fonts/Stem/Stem-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Stem/Stem-Thin.woff2') format('woff2'),
+        url('/fonts/Stem/Stem-Thin.woff') format('woff'),
+        url('/fonts/Stem/Stem-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stem';
+    src: url('/fonts/Stem/Stem-Regular.eot');
+    src: local('Stem Regular'), local('Stem-Regular'),
+        url('/fonts/Stem/Stem-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Stem/Stem-Regular.woff2') format('woff2'),
+        url('/fonts/Stem/Stem-Regular.woff') format('woff'),
+        url('/fonts/Stem/Stem-Regular.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'Stem';
+    font-size: 15px;
+}
+
+
 .header {
     padding: 0 20%;
 }
@@ -26,6 +117,13 @@
 header .menu a {
     text-decoration: none;
     color: #000;
+    font-family: 'Stem';
+    font-weight: 300;
+}
+
+header .menu a:hover {
+    transition: .5s;
+    color: rgba(252, 185, 0, 0.8);
 }
 
 .menu ul li {
@@ -41,8 +139,13 @@ footer .menu a {
     color: #fff;
 }
 
+footer .menu a:hover {
+    transition: .5s;
+    color: rgb(245, 212, 121);
+}
 
-.fon-color {
+
+.font-color {
     padding: 95px 0px 82px 600px;
     background: rgba(0, 0, 0, 0.5);
 }
@@ -61,12 +164,14 @@ footer .menu a {
     font-size: 30px;
     text-align: center;
     box-sizing: border-box;
-    font-weight: 600;
+    font-weight: 900;
     max-width: 680px;
     display: inline-block;
     padding-bottom: 45px;
     line-height: 29px;
     letter-spacing: 6px;
+    word-spacing: 5px;
+    font-family: 'Open Sans';
 }
 
 .content {
@@ -113,8 +218,6 @@ footer .menu a {
 .content p {
     line-height: 28px;
     font-weight: 400;
-    font-size: 20px;
-    font-weight: normal;
     margin-bottom: 20px;
 }
 
@@ -157,27 +260,148 @@ footer {
     background-position: center;
     background-size: cover;
     color: #fff;
-    margin-top: 97px;
-    padding: 10px 0 0 300px;
+    margin-top: 300px;
+    padding: 2px 20% 10px 20%;
 }
 
 footer .nav-links {
     border-bottom: solid 1px #fff;
     color: #fff;
-    margin: 70px;
+    margin: 65px 0 35px 0;
     display: flex;
     justify-content: center;
-    width: 1100px;
+    width: 1190px;
+    padding-bottom: 12px;
+    justify-content: space-between;
 }
 
 .contact-links {
     display: flex;
-    margin-top: 40px;
-    margin-right: 460px;
+    margin-top: 35px;
 }
 
 .contact-links li {
     margin-right: 20px;
 }
+
+
+.nav-links .menu {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-links .menu li {
+    font-weight: 700;
+    padding-right: 0;
+    margin-left: 25px;
+}
+
+.logo-info {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo-info .item {
+    margin-bottom: 30px;
+}
+
+.logo-info .item a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.logo-info .item:last-child {
+    margin-bottom: 0px;
+}
+
+
+.content .text-italic {
+    font-style: italic;
+}
+
+.content .text-size {
+    font-size: 30px;
+}
+
+.content .text-weight {
+    font-weight: 700;
+}
+
+.content .text-color {
+    color: cadetblue;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.content .text-decoration {
+    text-decoration: line-through;
+    text-indent: 200px;
+}
+
+.content .text-shadow {
+    text-shadow: 10px 10px 1px greenyellow;
+    text-align: center;
+}
+
+.content .text-transform {
+    text-transform: uppercase;
+    text-indent: 100px;
+}
+
+.content .text-height {
+    line-height: 15px;
+}
+
+.content .letter-spacing {
+    letter-spacing: 20px;
+}
+
+.content .word-spacing {
+    word-spacing: 25px;
+}
+
+.text-white {
+    font-size: 25px;
+    font-weight: 700;
+    color: peru;
+    text-shadow: 4px 6px 5px purple;
+    white-space: nowrap;
+    word-spacing: 35px;
+    line-height: 20px;
+}
+
+.text-justify {
+    font-size: 25px;
+    font-weight: 900;
+    text-align: justify;
+}
+
+
+
+.content .multi-style-text {
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    color: aqua;
+    text-decoration: overline underline;
+    text-transform: capitalize;
+    text-shadow: 4px 8px 4px goldenrod;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    text-align: right;
+    text-indent: 600px;
+    line-height: 60px;
+}
+
+
+
+
+
+
+
 
 
