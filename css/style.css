@@ -431,7 +431,7 @@ footer .menu a:hover {
 }
 
 .block-about {
-    background-image: url("../img/content_laptop-parker-byrd_1.jpg");
+    background-image: url("/../img/content_laptop-parker-byrd_1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -538,7 +538,7 @@ footer .menu a:hover {
 }
 
 footer {
-    background-image: url("../img/footer_bg.jpg");
+    background-image: url("/../img/footer_bg.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
