@@ -1,83 +1,83 @@
 @font-face {
     font-family: 'Stem';
-    src: url('/fonts/Stem/Stem-Light.eot');
+    src: url('/FabrikaSlov/fonts/Stem/Stem-Light.eot');
     src: local('Stem Light'), local('Stem-Light'),
-        url('/fonts/Stem/Stem-Light.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Stem/Stem-Light.woff2') format('woff2'),
-        url('/fonts/Stem/Stem-Light.woff') format('woff'),
-        url('/fonts/Stem/Stem-Light.ttf') format('truetype');
+        url('/FabrikaSlov/fonts/Stem/Stem-Light.eot?#iefix') format('embedded-opentype'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Light.woff2') format('woff2'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Light.woff') format('woff'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Stem';
-    src: url('/fonts/Stem/Stem-Medium.eot');
+    src: url('/FabrikaSlov/fonts/Stem/Stem-Medium.eot');
     src: local('Stem Medium'), local('Stem-Medium'),
-        url('/fonts/Stem/Stem-Medium.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Stem/Stem-Medium.woff2') format('woff2'),
-        url('/fonts/Stem/Stem-Medium.woff') format('woff'),
-        url('/fonts/Stem/Stem-Medium.ttf') format('truetype');
+        url('/FabrikaSlov/fonts/Stem/Stem-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Medium.woff2') format('woff2'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Medium.woff') format('woff'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Stem';
-    src: url('/fonts/Stem/Stem-Bold.eot');
+    src: url('/FabrikaSlov/fonts/Stem/Stem-Bold.eot');
     src: local('Stem Bold'), local('Stem-Bold'),
-        url('/fonts/Stem/Stem-Bold.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Stem/Stem-Bold.woff2') format('woff2'),
-        url('/fonts/Stem/Stem-Bold.woff') format('woff'),
-        url('/fonts/Stem/Stem-Bold.ttf') format('truetype');
+        url('/FabrikaSlov/fonts/Stem/Stem-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Bold.woff2') format('woff2'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Bold.woff') format('woff'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Stem';
-    src: url('/fonts/Stem/Stem-SemiLight.eot');
+    src: url('/FabrikaSlov/fonts/Stem/Stem-SemiLight.eot');
     src: local('Stem Semi Light'), local('Stem-SemiLight'),
-        url('/fonts/Stem/Stem-SemiLight.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Stem/Stem-SemiLight.woff2') format('woff2'),
-        url('/fonts/Stem/Stem-SemiLight.woff') format('woff'),
-        url('/fonts/Stem/Stem-SemiLight.ttf') format('truetype');
+        url('/FabrikaSlov/fonts/Stem/Stem-SemiLight.eot?#iefix') format('embedded-opentype'),
+        url('/FabrikaSlov/fonts/Stem/Stem-SemiLight.woff2') format('woff2'),
+        url('/FabrikaSlov/fonts/Stem/Stem-SemiLight.woff') format('woff'),
+        url('/FabrikaSlov/fonts/Stem/Stem-SemiLight.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Stem';
-    src: url('/fonts/Stem/Stem-ExtraLight.eot');
+    src: url('/FabrikaSlov/fonts/Stem/Stem-ExtraLight.eot');
     src: local('Stem Extra Light'), local('Stem-ExtraLight'),
-        url('/fonts/Stem/Stem-ExtraLight.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Stem/Stem-ExtraLight.woff2') format('woff2'),
-        url('/fonts/Stem/Stem-ExtraLight.woff') format('woff'),
-        url('/fonts/Stem/Stem-ExtraLight.ttf') format('truetype');
+        url('/FabrikaSlov/fonts/Stem/Stem-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('/FabrikaSlov/fonts/Stem/Stem-ExtraLight.woff2') format('woff2'),
+        url('/FabrikaSlov/fonts/Stem/Stem-ExtraLight.woff') format('woff'),
+        url('/FabrikaSlov/fonts/Stem/Stem-ExtraLight.ttf') format('truetype');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Stem';
-    src: url('/fonts/Stem/Stem-Thin.eot');
+    src: url('/FabrikaSlov/fonts/Stem/Stem-Thin.eot');
     src: local('Stem Thin'), local('Stem-Thin'),
-        url('/fonts/Stem/Stem-Thin.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Stem/Stem-Thin.woff2') format('woff2'),
-        url('/fonts/Stem/Stem-Thin.woff') format('woff'),
-        url('/fonts/Stem/Stem-Thin.ttf') format('truetype');
+        url('/FabrikaSlov/fonts/Stem/Stem-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Thin.woff2') format('woff2'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Thin.woff') format('woff'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Stem';
-    src: url('/fonts/Stem/Stem-Regular.eot');
+    src: url('/FabrikaSlov/fonts/Stem/Stem-Regular.eot');
     src: local('Stem Regular'), local('Stem-Regular'),
-        url('/fonts/Stem/Stem-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Stem/Stem-Regular.woff2') format('woff2'),
-        url('/fonts/Stem/Stem-Regular.woff') format('woff'),
-        url('/fonts/Stem/Stem-Regular.ttf') format('truetype');
+        url('/FabrikaSlov/fonts/Stem/Stem-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Regular.woff2') format('woff2'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Regular.woff') format('woff'),
+        url('/FabrikaSlov/fonts/Stem/Stem-Regular.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -87,264 +87,264 @@
 
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-Regular.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-Regular.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Regular.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-Bold.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-Bold.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Bold.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-BoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-BoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-BoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-BoldItalic.woff') format('woff');
     font-weight: 700;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-ExtraBold.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-ExtraBold.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-ExtraBold.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-ExtraBold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-ExtraBoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-ExtraBoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-ExtraBoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-ExtraBoldItalic.woff') format('woff');
     font-weight: 700;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-Italic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-Italic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Italic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-SemiBoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-SemiBoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-SemiBoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-SemiBoldItalic.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-LightItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-LightItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-LightItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-LightItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-Regular.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-Italic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-Italic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Italic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Italic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-Italic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-Italic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-Italic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-Medium.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-Medium.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-Medium.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-ExtraBoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-ExtraBoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-ExtraBoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-ExtraBoldItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-ExtraBoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-ExtraBoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-ExtraBoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-ExtraBoldItalic.woff') format('woff');
     font-weight: 700;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-ExtraBold.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-ExtraBold.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-ExtraBold.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-ExtraBold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-SemiBold.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-SemiBold.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-SemiBold.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-MediumItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-MediumItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-MediumItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-MediumItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-MediumItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-MediumItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-MediumItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-Medium.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-Medium.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Medium.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-Light.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-Light.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-Light.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-Light.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-Light.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Light.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-BoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-BoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-BoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-BoldItalic.woff') format('woff');
     font-weight: 700;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-Regular.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-Regular.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Regular.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Regular.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-Medium.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-Medium.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Medium.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Medium.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_Condensed-LightItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_Condensed-LightItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-LightItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_Condensed-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-Bold.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-Bold.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-Bold.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-Bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-Bold.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-Bold.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Bold.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Bold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-Light.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-Light.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Light.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-SemiBoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-SemiBoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-SemiBoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-SemiBoldItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-BoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-BoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-BoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-BoldItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-SemiBoldItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-SemiBoldItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-SemiBoldItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-SemiBoldItalic.woff') format('woff');
     font-weight: 600;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans-LightItalic.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans-LightItalic.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans-LightItalic.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans-LightItalic.woff') format('woff');
     font-weight: 300;
     font-style: italic;
     font-display: swap;
 }
 @font-face {
     font-family: 'Open Sans';
-    src:  url('/fonts/OpenSans/OpenSans_SemiCondensed-SemiBold.woff2') format('woff2'), 
-        url('/fonts/OpenSans/OpenSans_SemiCondensed-SemiBold.woff') format('woff');
+    src:  url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-SemiBold.woff2') format('woff2'), 
+        url('/FabrikaSlov/fonts/OpenSans/OpenSans_SemiCondensed-SemiBold.woff') format('woff');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -423,7 +423,6 @@ footer .menu a:hover {
     transition: .5s;
     color: rgb(245, 212, 121);
 }
-
 
 .font-color {
     padding: 95px 0px 82px 600px;
